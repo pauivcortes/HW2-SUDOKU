@@ -15,7 +15,7 @@ def leer_sudoku():
     #COMENZAR A TRANSCRIBIR LA MATRIZ
     
     # Leer archivo de texto
-    with open('Inputs/Input.txt') as f:
+    with open('Inputs/Hard.txt') as f:
         lines = f.readlines()
     
     # Crear matriz vacia
