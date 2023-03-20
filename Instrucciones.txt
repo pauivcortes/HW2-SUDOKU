@@ -1,0 +1,47 @@
+Esta tarea es individual.
+
+Lo que hay que realizar es lo siguiente:
+
+Leer desde un archivo de texto o una cadena en el codigo la configuracion del Sudoku, por ejemplo
+ .  .  . | .  .  6 | .  .  .
+ .  5  9 | .  .  . | .  .  8
+ 2  .  . | .  .  8 | .  .  .
+---------+---------+---------
+ .  4  5 | .  .  . | .  .  .
+ .  .  3 | .  .  . | .  .  .
+ .  .  6 | .  .  3 | .  5  4
+---------+---------+---------
+ .  .  . | 3  2  5 | .  .  6
+ .  .  . | .  .  . | .  .  .
+ .  .  . | .  .  . | .  .  .
+Programe el algoritmo para resolver el Sudoku como mejor le convenga, puede ser utilizando algun algoritmo visto en clase o algun otro que investigue
+Documente la solucion, en un documento word plasme la idea de la solucion
+Grabe un video, de no mas de 2 minutos donde muestre su solucion.
+Ya que tengan el codigo corriendo deben hacer lo siguiente:
+
+De la página "Web Sudoku" (https://www.websudoku.com) consigan un sudoku Easy, otro Medium, otro Hard y otro Evil.
+Corren el código para despliegue la solución de cada uno de estos Sudokus mostrando su tiempo de ejecución en milisegundos!
+Luego busquen el que se dice el "World's Hardest Sudoku" creado por el matemático Arto Inkala en 2012.
+Vean como el tiempo se incrementa en un orden de 10 veces más con respecto a los tiempos de los Sudokus del Web Sudoku!
+También corran el código con este Sudoku y desplieguen la solución y el tiempo en milisegundos.
+Ahora también corran el código con este otro sudoku: 
+ .  .  . | .  .  6 | .  .  .
+ .  5  9 | .  .  . | .  .  8
+ 2  .  . | .  .  8 | .  .  .
+---------+---------+---------
+ .  4  5 | .  .  . | .  .  .
+ .  .  3 | .  .  . | .  .  .
+ .  .  6 | .  .  3 | .  5  4
+---------+---------+---------
+ .  .  . | 3  2  5 | .  .  6
+ .  .  . | .  .  . | .  .  .
+ .  .  . | .  .  . | .  .  .
+ 
+
+Ahora verán el tiempo se incremento en el orden de miles de milisegundos!
+Entregable:
+
+Un ZIP con el nombre "sudokuA0XXXXXXX.zip"  con los siguientes archivos adentro:
+Un archivo con el nombre "sudokuA0XXXXXXX.py" (reemplazando las Xs con su matrícula) con el código.
+Un documento llamado "sudokuA0XXXXXXX.pdf" (reemplazando las Xs con su matrícula) con la documentacion de como soluciono el problema.
+El video (puede poner el link del video en su documento)
